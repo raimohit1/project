@@ -1,0 +1,90 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    background-color:rgb(228, 222, 235);
+    background-size: auto;
+    background-position: right bottom, left top;
+    background-repeat: no-repeat, repeat;
+    padding: 15px;
+    
+    
+    
+}
+
+
+img{
+    width: 200px;
+    height: 200px;
+}
+.menubtn{
+    color: brown;
+
+}
+.mainheader nav{
+    text-decoration: none;
+    padding-top: 0rem;
+    justify-content: space-between;
+    align-items: center;
+    
+    
+
+}
+.mainheader nav a{
+    text-decoration: none;
+    color: red;
+    text-transform: uppercase;
+    margin: 30px;
+    padding-top: 1em;
+}
+.menubtn{
+    
+    margin: 60px;
+    font-size: 14px;
+    color: rgba(255, 0, 0, 0.329);
+    border: none;
+    border-radius: 10px;
+
+}
+
+.mainheader button{
+    padding: 10px 45px;
+    text-align: center;
+    font-size: 14px;
+    color: red;
+    border: none;
+    border-radius: 10px;
+  
+
+
+
+}
+.logo{
+    background-color:darkslateblue;
+    
+}
+center{
+    padding-top: 2rem;
+
+}
+button{
+    color:chocolate;
+    background-position: abolute;
+}
+figure{
+    padding-left: 1200px;
+    padding-bottom: 1000px;
+    width: 100px;
+    height: 100px;
+}
+.left-sec h2{
+    color: crimson;
+}
+P b{
+    color: red;
+}
+center a:hover{
+    color:darkviolet;
+}
+
+
+    
